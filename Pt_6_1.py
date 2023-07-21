@@ -6,7 +6,8 @@ try:
     page = requests.get(url)
     if page.status_code == 200:
         soup = BeautifulSoup(page.text, "html.parser")
-        Top10 = soup.findAll("a", class_="d-track__title deco-link deco-link_stronger")[0:10]
+        Top10 = soup.findAll("a", class_="d-track__title deco-link "
+                                         "deco-link_stronger")[0:10]
         if Top10 is not None:
             print("Топ песен: ")
             for data in Top10:
