@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="802481b2-a8a8-43f1-852f-ec7050e8df7f" name="Changes" comment="Pt_1_10: Full task&#10;&#10;In this commit I used the output format">
+      <change beforePath="$PROJECT_DIR$/Pt_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pt_2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pt_2_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pt_2_11.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ded89cbe-84df-4d50-b90b-0824a3217538" />
+        <option name="url" value="git@github.com:Aleksandr1331/Praktika8I22-19-.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="2S1nt3o6GAtIerppiQjkuOJBwHv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Study/Practika&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.Pt_2_2">
+    <configuration name="Pt_2_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="praktika" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Study\Practika\Kyrs1\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9 (Kyrs1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pt_2_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pt_2_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="praktika" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pt_2_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Pt_2_2" />
+      <item itemvalue="Python.Pt_2_11" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Pt_2_2" />
+        <item itemvalue="Python.Pt_2_11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="802481b2-a8a8-43f1-852f-ec7050e8df7f" name="Changes" comment="" />
+      <created>1688323165363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688323165363</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Pt_1_2.py: Full task and additional space in Pt_1_1.py">
+      <option name="closed" value="true" />
+      <created>1688323317100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688323317100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pt_1_3: Full task">
+      <option name="closed" value="true" />
+      <created>1688323505657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688323505658</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pt_1_4: Full task">
+      <option name="closed" value="true" />
+      <created>1688323691377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688323691377</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pt_1_5: Full task">
+      <option name="closed" value="true" />
+      <created>1688323878488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688323878488</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Pt_1_6: Full task">
+      <option name="closed" value="true" />
+      <created>1688323949401</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688323949401</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Pt_1_7: Full task&#10;&#10;In this commit I used the for loop">
+      <option name="closed" value="true" />
+      <created>1688324688054</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688324688054</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Pt_1_8: Full task">
+      <option name="closed" value="true" />
+      <created>1688324771036</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688324771036</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Pt_1_9: Full task">
+      <option name="closed" value="true" />
+      <created>1688324823669</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688324823669</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Pt_1_10: Full task&#10;&#10;In this commit I used the output format">
+      <option name="closed" value="true" />
+      <created>1688324926183</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688324926183</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pt_1_2.py: Full task and additional space in Pt_1_1.py" />
+    <MESSAGE value="Pt_1_3: Full task" />
+    <MESSAGE value="Pt_1_4: Full task" />
+    <MESSAGE value="Pt_1_5: Full task" />
+    <MESSAGE value="Pt_1_6: Full task" />
+    <MESSAGE value="Pt_1_7: Full task&#10;&#10;In this commit I used the for loop" />
+    <MESSAGE value="Pt_1_8: Full task" />
+    <MESSAGE value="Pt_1_9: Full task" />
+    <MESSAGE value="Pt_1_10: Full task&#10;&#10;In this commit I used the output format" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pt_1_10: Full task&#10;&#10;In this commit I used the output format" />
+  </component>
+</project>

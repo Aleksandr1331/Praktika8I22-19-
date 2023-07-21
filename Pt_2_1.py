@@ -11,6 +11,6 @@ print(Colors)
 YourChose = int(input("Выбирете цвет(Введите порядковый номер): "))
 
 while YourChose != ChoseProgram:
-    print("Неверно. \nПодсказка:", Hint[ChoseProgram-1], "\n")
+    print("Неверно. \nПодсказка:", Hint[ChoseProgram - 1], "\n")
     YourChose = int(input("Попробуйте снова угадать: "))
 print("Отлично!")

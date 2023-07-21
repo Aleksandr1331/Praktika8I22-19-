@@ -9,6 +9,7 @@ def OutPutt(tele):
 
 
 OutPutt(TV)
-NewPer, ordinal = str(input("Введите название новой передачи: ")), int(input("Его новая позиция: "))
-TV.insert(ordinal-1, NewPer)
+NewPer = str(input("Введите название новой передачи: "))
+ordinal = int(input("Его новая позиция: "))
+TV.insert(ordinal - 1, NewPer)
 OutPutt(TV)

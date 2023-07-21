@@ -1,4 +1,5 @@
 import math
 
-a, b = math.ceil(float(input("Введите левую границу: "))), math.floor(float(input("Введите правую границу: ")))
-print("Сумма всех целых чисел между {} и {} = {}".format(a, b, ((a + b) * (b - a + 1)) / 2))
+a = math.ceil(float(input("Введите левую границу: ")))
+b = math.floor(float(input("Введите правую границу: ")))
+print(f"Сумма целых чисел от {a} до {b} = {((a + b) * (b - a + 1)) / 2}")

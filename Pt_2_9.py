@@ -7,4 +7,5 @@ for i in range(Pos, len(Number)):
     else:
         continue
 
-print("Позиция от начала числа:", Pos + 1, "\nПозиция с конца числа:", len(Number) - Pos)
+print("Позиция от начала числа:", Pos + 1)
+print("Позиция с конца числа:", len(Number) - Pos)
