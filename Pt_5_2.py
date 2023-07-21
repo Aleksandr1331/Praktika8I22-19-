@@ -30,7 +30,7 @@ if Flag:
         count = 0
         for row in file_reader:
             if row["Автор"] == Autor:
-                print(f'\t{row["Книга"]} - {row["Автор"]} - {row["Год выпуска"]}')
+                print(f'\t{row["Книга"]} - {row["Автор"]} - {row["Год"]}')
                 count += 1
         if count == 0:
             print("Книг с таким автором нет")
